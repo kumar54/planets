@@ -1,4 +1,7 @@
 This is a nice planet to start a new base.
+<<<<<<< HEAD
 Five days at the new base. Climate very suitable for life here.
 Venus is too hot to be suitable for a base.
 Venus is neutiful and full of love.
+=======
+>>>>>>> parent of f53f9e6... Adding new author
